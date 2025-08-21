@@ -1,2 +1,21 @@
-# the-eagle-s-eye
-The Eagle's Eye 🦅 - Outil OSINT avancé pour la reconnaissance éthique. Collecte d'informations via web scraping (emails, téléphones, IPs, réseaux sociaux). Développé par Imad Merouane. Parfait pour tests de pénétration et investigations légales. #Cybersécurité #OSINT #Python
+# The Eagle's Eye
+
+Advanced OSINT reconnaissance tool for ethical security research.
+
+## Features
+
+- Email investigation and breach checking
+- Phone number analysis
+- IP address geolocation and reconnaissance
+- Social media profiling
+- Domain and DNS analysis
+- Tor network support
+- Comprehensive reporting
+
+## Installation
+
+### Quick Install
+```bash
+git clone https://github.com/imerouane9903/the-eagles-eye.git
+cd the-eagles-eye
+sudo ./scripts/install.sh
